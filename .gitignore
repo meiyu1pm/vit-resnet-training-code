@@ -1,0 +1,30 @@
+# 数据集文件夹
+dataset/
+data/
+
+# 仓库说明
+readme.md
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+vit_env/
+.venv
+
+# 系统、编辑器文件
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+*.ipynb_checkpoints
+
+# 临时文件、本地配置
+*.txt
+temp/
+tmp/
