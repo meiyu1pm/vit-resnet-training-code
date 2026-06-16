@@ -23,6 +23,7 @@ Cifar-10数据集：
 ./train_results/
 
 ### 6 目录结构
+```
 ├── configs
 │   ├── __init__.py
 │   ├── basic_config.py
@@ -37,7 +38,12 @@ Cifar-10数据集：
 ├── scripts
 │   ├── train_resnet.sh
 │   └── train_vit.sh
-└── train_results
+├── train_results
+├── utils
+│   ├── train_utils.py
+│   └── data_utils.py
+└── readme.md
+```
 ├── utils
 │   ├── train_utils.py
 │   └── data_utils.py
