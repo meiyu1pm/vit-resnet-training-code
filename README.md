@@ -42,9 +42,6 @@ Cifar-10数据集：
 ├── utils
 │   ├── train_utils.py
 │   └── data_utils.py
+├── train.py
 └── readme.md
 ```
-├── utils
-│   ├── train_utils.py
-│   └── data_utils.py
-└── readme.md
